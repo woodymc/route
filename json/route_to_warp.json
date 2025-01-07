@@ -1,0 +1,9 @@
+{
+	"version": 1,
+	"rules": [{
+		"domain": [
+			"showip.net",
+			"2ip.io"
+		]
+	}]
+}
