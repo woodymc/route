@@ -1,12 +1,12 @@
 {
 	"version": 1,
 	"rules": [{
-		"ip": [
-			"geoip:cn",
-			"geoip:ir"
+		"geoip": [
+			"cn",
+			"ir"
 		],
-		"domain":[
-			"geosite:category-porn"
+		"geosite":[
+			"category-porn"
 		]
   }]
 }
