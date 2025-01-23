@@ -1,5 +1,13 @@
 {
 	"version": 1,
 	"rules": [{
+		"domain": [
+			"ui.com",
+			"ubnt.com"
+		],
+		"domain_suffix": [
+			".ui.com",
+			".ubnt.com"
+		],
 	}]
 }
