@@ -3,11 +3,21 @@
 	"rules": [{
 		"domain": [
 			"ui.com",
-			"ubnt.com"
+			"ubnt.com",
+			"telegram.org",
+			"whatsapp.com",
+			"whatsapp.net",
+			"wa.me",
+			"whatsapp.biz"
 		],
 		"domain_suffix": [
 			".ui.com",
-			".ubnt.com"
+			".ubnt.com",
+			".telegram.org",
+			".whatsapp.com",
+			".whatsapp.net",
+			".wa.me",
+			".whatsapp.biz"
 		]
 	}]
 }
