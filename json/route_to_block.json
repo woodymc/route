@@ -11,6 +11,7 @@
 			"bnc.lt",
 			"cookiebot.com",
 			"dpbolvw.net",
+			"siftscience.com",
 			"greatis.com",
 			"outbrain.com",
 			"quantcast.com",
@@ -20,6 +21,7 @@
 			"zenaps.com"
 		],
 		"domain": [
+			"ads-api.twitter.com",
 			"ads.microsoft.com",
 			"ads.vk.com",
 			"ads.x.com",
@@ -28,7 +30,9 @@
 			"bat.bing.com",
 			"cdn.privacy-mgmt.com",
 			"go.skimresources.com",
-			"redirector.skimresources.com"
+			"graph.facebook.com",
+			"redirector.skimresources.com",
+			"tr.facebook.com"
 		]
 	}]
 }
