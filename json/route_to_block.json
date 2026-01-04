@@ -1,6 +1,12 @@
 {
 	"version": 1,
 	"rules": [{
-		
+		"app.appsflyer.com",
+		"bnc.lt",
+		"greatis.com",
+		"cdn.privacy-mgmt.com",
+		"www.anrdoezrs.net",
+		"www.dpbolvw.net",
+		"go.skimresources.com"
 	}]
 }
