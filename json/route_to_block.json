@@ -1,12 +1,32 @@
 {
 	"version": 1,
 	"rules": [{
-		"app.appsflyer.com",
-		"bnc.lt",
-		"greatis.com",
-		"cdn.privacy-mgmt.com",
-		"www.anrdoezrs.net",
-		"www.dpbolvw.net",
-		"go.skimresources.com"
+		"domain_keyword": [
+			"ads"
+		],
+		"domain_suffix": [
+			"anrdoezrs.net",
+			"appsflyer.com",
+			"awin1.com",
+			"bnc.lt",
+			"cookiebot.com",
+			"dpbolvw.net",
+			"greatis.com",
+			"outbrain.com",
+			"siftscience.com",
+			"thetradedesk.com",
+			"tkqlhce.com"
+		],
+		"domain": [
+			"ads.microsoft.com",
+			"ads.vk.com",
+			"ads.x.com",
+			"analytics.twitter.com",
+			"app.usercentrics.eu",
+			"bat.bing.com",
+			"cdn.privacy-mgmt.com",
+			"go.skimresources.com",
+			"redirector.skimresources.com"
+		]
 	}]
 }
