@@ -140,7 +140,8 @@
 			".tailscale.com",
 			".ti.com",
 			".trassir.com",
-			".ui-portal.de",
+			".ui-portal.de",	# mail.com
+			".uicdn.com",		# mail.com
 			".usablenet.com",
 			".utorrent.com",
 			".wyrestorm.com",
