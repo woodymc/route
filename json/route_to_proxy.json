@@ -82,6 +82,8 @@
 			".azal.az",
 			".bbc.co.uk",
 			".bbc.com",
+			".bluos.net",	# BlueOS
+			".bluesound.com",	# BlueOS
 			".cars.com",
 			".classistatic.de",
 			".corsair.com",
@@ -107,6 +109,7 @@
 			".kecesaudio.com",
 			".kinobar.im",
 			".kinovod.pro",
+			".lenbrook.com",	# BlueOS
 			".lyst.com",
 			".mail.com",
 			".master-fidelity.com",
