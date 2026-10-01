@@ -18,6 +18,7 @@
 #			"browserleaks.com",
 			"cars.com",
 			"cdn-service.space",
+			"content-bluesound-com.s3.amazonaws.com",
 			"corsair.com",
 			"cricbuzz.com",
 			"datasheetcatalog.com",
@@ -83,6 +84,7 @@
 			".bbc.co.uk",
 			".bbc.com",
 			".bluos.net",	# BlueOS
+			".bluos.io",	# BlueOS
 			".bluesound.com",	# BlueOS
 			".cars.com",
 			".classistatic.de",
